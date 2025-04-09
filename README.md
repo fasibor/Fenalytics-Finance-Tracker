@@ -26,7 +26,7 @@ The dataset used in this project captures real-life finance entries across vario
 - **Fully auto-updating** — just add entries in the Data sheet and the dashboard refreshes automatically  
 
 
-# Tool Used
+# Tools Used
 
 - **Microsoft Excel**
 - **Pivot Tables**
